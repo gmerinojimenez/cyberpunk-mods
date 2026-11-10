@@ -1,0 +1,14 @@
+# build outputs and extracted game files
+work/
+dist/
+*.archive
+*.archive.xl
+*.zip
+
+# local tools (WolvenKit CLI)
+tools/
+
+# OS / editor
+Thumbs.db
+.DS_Store
+.vscode/
